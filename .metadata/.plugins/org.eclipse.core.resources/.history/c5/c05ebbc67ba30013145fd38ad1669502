@@ -4,6 +4,5 @@ public class gitTest {
 	{
 		System.out.println("Hello Matt");
 		System.err.println("Hello Steve. Git");
-		System.out.println("sad panda");
 	}
 }
